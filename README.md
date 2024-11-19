@@ -184,5 +184,5 @@
 
 ---
 
-<p align="center">Credits: <a href="https://github.com/Esteban-Castillo">Mactuber</a></p>
+<p align="center">Credits: <a href="https://github.com/Mactuber">Mactuber</a></p>
 <p align="center">Last Edited on: 19/11/2024</p>
