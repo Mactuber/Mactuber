@@ -34,6 +34,9 @@
   <a href="https://sites.google.com/view/jeremias-esteban-castillo/inicio" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
       alt="google site" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/1035685063175712779" target="blank"><img align="center"
+      src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg"
+      alt="google site" height="30" width="40" /></a>
 </p>
 
 <br>
