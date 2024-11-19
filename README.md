@@ -1,49 +1,46 @@
 <h1 align="center">Hi 👋, I'm Mactuber</h1>
 <h3 align="center">SOC Analyst 🛡️🔵 | Red Team Enthusiast 🛡️🔴 | Ethical Hacker 🕶️💻</h3>
 
-<br>
-
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=esteban-castillo&label=Profile%20views&color=0e75b6&style=flat"
-    alt="profile-views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=esteban-castillo&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="developer-animation" /></p>
-
-- 🔭 I’m currently focusing on **Cybersecurity Projects and Ethical Hacking**
-
-- 🌱 I’m learning advanced **Red Teaming** and improving automation skills with **Python**
-
-- 📫 How to reach me **estebanmorillo@icloud.com**
-
-- ⚡ Fun fact: I love solving **CTFs** and exploring **vulnerability analysis** tools!
-
-<br>
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="developer-animation" width="300"/>
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌟 About Me:
+
+- 🔭 I’m currently focusing on **Cybersecurity Projects and Ethical Hacking**  
+- 🌱 Learning advanced **Red Teaming** and improving automation skills with **Python**  
+- 📫 Reach me at **estebanmorillo@icloud.com**  
+- ⚡ Fun fact: I love solving **CTFs** and exploring **vulnerability analysis** tools!  
+
+---
+
+### 🌐 Connect with Me:
+
 <p align="left">
-  <a href="www.linkedin.com/in/jeremías-esteban-castillo-morillo-811806231" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/Mactuber" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="github" height="30" width="40" /></a>
-  <a href="https://sites.google.com/view/jeremias-esteban-castillo/inicio" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
-      alt="google site" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/1035685063175712779" target="blank"><img align="center"
-      src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg"
-      alt="google site" height="30" width="40" /></a>
+  <a href=“https://www.linkedin.com/in/jeremías-esteban-castillo-morillo-811806231" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Mactuber" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://sites.google.com/view/jeremias-esteban-castillo/inicio" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Site" height="30" width="40" />
+  </a>
+  <a href="https://discordapp.com/users/1035685063175712779" target="blank">
+    <img src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
-
-<br>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### ⚙️ Languages and Tools:
+
 <p align="left"> 
     <!-- Python -->
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -167,27 +164,31 @@
     </a>
 </p>
 
-<br>
+---
+
+### 🏆 Key Achievements:
+
+- 🚀 Developed and optimized automated Python tools to enhance incident response and vulnerability analysis.  
+- 🔒 Improved security posture by implementing robust IP blocking and WAF management protocols.  
+- 🛡️ Played a key role in detecting and mitigating high-priority vulnerabilities in enterprise environments.  
+- ⚙️ Successfully classified and documented incidents in SIEMs like Splunk, RSA, and Qradar.  
 
 ---
 
-<h3 align="left">Key Achievements:</h3>
-<ul>
-    <li>🚀 Developed and optimized automated Python tools to enhance incident response and vulnerability analysis.</li>
-    <li>🔒 Improved security posture by implementing robust IP blocking and WAF management protocols.</li>
-    <li>🛡️ Played a key role in detecting and mitigating high-priority vulnerabilities in enterprise environments.</li>
-    <li>⚙️ Successfully classified and documented incidents in SIEMs like Splunk, RSA, and Qradar.</li>
-</ul>
+### 📊 Statistical Data:
 
-<br>
+<p>
+  <img alt="Mactuber's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Mactuber&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mactuber&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</p>
 
 ---
 
-<h3>Statistical Data:</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Mactuber&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=6"
-    alt="esteban-castillo-top-langs" /></p>
-<br>
+### 🔥 Streak Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mactuber&theme=tokyonight" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
