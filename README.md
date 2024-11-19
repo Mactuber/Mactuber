@@ -161,6 +161,10 @@
     <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/>
     </a>
+    <!-- AWS -->
+    <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="php" width="40" height="40"/>
+    </a>
 </p>
 
 <br>
