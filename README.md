@@ -162,6 +162,22 @@
     <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="php" width="40" height="40"/>
     </a>
+   <!-- JavaScript  -->
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="php" width="40" height="40"/>
+    </a>
+     <!-- Autopsy  -->
+    <a href="https://www.autopsy.com/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/856501?v=4" alt="php" width="40" height="40"/>
+    </a>
+     <!-- Ghidra  -->
+    <a href="https://ghidra-sre.org/" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" alt="php" width="40" height="40"/>
+    </a>
+     <!-- Volatility  -->
+    <a href="https://volatilityfoundation.org/" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/6001145?s=48&v=4" alt="php" width="40" height="40"/>
+    </a>
 </p>
 
 ---
