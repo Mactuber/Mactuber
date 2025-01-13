@@ -192,19 +192,14 @@
 ---
 
 ### 📊 Statistical Data:
-
-<p>
-  <img alt="Mactuber's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Mactuber&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mactuber&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</p>
-
+<p align="center"> <img alt="Gráfico de contribuciones" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mactuber&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mactuber&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mactuber&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Estadísticas de Wakatime" /> </p>
 ---
 
 ### 🔥 Streak Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mactuber&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
+<p align="center"> <img src="https://github.com/Mactuber/Mactuber/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/> </p>
 
 ---
 
